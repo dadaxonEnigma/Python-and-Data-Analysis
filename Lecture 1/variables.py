@@ -1,15 +1,15 @@
 # ---------- ссылка на обьъект 
-a = [1,2,3,4]
-b = a 
-print(b)
-b.append(5)
-print(b)
+# a = [1,2,3,4]
+# b = a 
+# print(b)
+# b.append(5)
+# print(b)
 
 # -------- типизированный язык
-# a = 5 
-# print(type(a))
-# a = 'str'
-# print(type(a))
+a = 5 
+print(type(a))
+a = 'str'
+print(type(a))
 # b = '5' + 5
 # print(b)
 
@@ -70,3 +70,21 @@ print(b)
 # l = ['p','y','t','h','o','n']
 # print(list(s))
 # print("".join(l))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
