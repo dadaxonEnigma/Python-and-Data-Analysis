@@ -57,3 +57,5 @@
 # print(seq[-6:-2])
 # print(seq[::2])
 # print(seq[::-1])
+
+

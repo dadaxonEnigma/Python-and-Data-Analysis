@@ -73,9 +73,20 @@
 
 
 
+# Интерполяция строк
+# name = 'Chris'
+# print('Hey %s %s' % (name,name))
+# print(f'Hey {name}')
 
-name = 'Chris'
-print('Hey %s %s' % (name,name))
+# Сравнение is и ==
+# a = [1,2,3,4,5]
+# b = a
+# c = [1,2,3,4,5]
+
+# print(a == c)
+# print(a is c)
+# print(id(a))
+# print(id(c))
 
 
 
