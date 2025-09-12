@@ -6,10 +6,10 @@
 # print(b)
 
 # -------- типизированный язык
-a = 5 
-print(type(a))
-a = 'str'
-print(type(a))
+# a = 5 
+# print(type(a))
+# a = 'str'
+# print(type(a))
 # b = '5' + 5
 # print(b)
 
@@ -74,7 +74,8 @@ print(type(a))
 
 
 
-
+name = 'Chris'
+print('Hey %s %s' % (name,name))
 
 
 
