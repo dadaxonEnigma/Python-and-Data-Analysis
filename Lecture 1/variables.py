@@ -78,11 +78,12 @@
 # print('Hey %s %s' % (name,name))
 # print(f'Hey {name}')
 
-# Сравнение is и ==
+# Сравнение is и == 
 # a = [1,2,3,4,5]
 # b = a
 # c = [1,2,3,4,5]
-
+# a = 256
+# b = 256
 # print(a == c)
 # print(a is c)
 # print(id(a))
