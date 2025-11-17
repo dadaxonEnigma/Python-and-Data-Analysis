@@ -95,11 +95,6 @@
 
 
 
-
-
-
-
-
-
-
+age = 10
+print(age.bit_length())
 
