@@ -91,6 +91,4 @@
 # print(id(a))
 # print(id(c))
 
-age = 10
-print(age.bit_length())
 
